@@ -1,0 +1,20 @@
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+.idea/
+.vscode/
+
+# Pre-packaging artifacts: superseded by the src/ai_rag_demo package and its
+# bundled sample_data/account.txt. data/ in particular may contain real log
+# exports dropped in during manual testing and must never be committed.
+basic-rag-demo.py
+chroma_db/
+data/

@@ -1,0 +1,24 @@
+Account Summary for Demo User (Account ID: DEMO-1001)
+
+Account holder: Jordan Rivera
+Account type: Postpaid Mobile
+Current balance: $43.00 USD
+Billing cycle: 17th of each month
+Plan: Unlimited Talk & Text, 20GB data
+
+Recent transactions:
+- 2026-08-01: Monthly plan charge, -$35.00
+- 2026-08-10: Data top-up (5GB), -$8.00
+- 2026-08-15: Auto-pay credit, +$0.00
+- 2026-08-20: Late payment fee waived, +$0.00
+
+Support notes:
+- 2026-07-28: Customer called about slow data speeds in the downtown area.
+  Ticket #4821 was opened and resolved after a network configuration update.
+- 2026-08-05: Customer requested a plan upgrade quote for the Unlimited Plus
+  tier, which includes 50GB of data and international roaming for $55/month.
+- 2026-08-22: Customer asked about the current account balance and was told
+  it was $43.00, with the next billing date on 2026-09-17.
+
+Device on file: Model X200, activated 2025-11-02, no outstanding installment
+balance remaining.
